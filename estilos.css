@@ -1,0 +1,16 @@
+body {
+   background-color: rgb(182, 141, 206)
+}
+img {
+     height: 300px;
+     border-radius: 50px;
+}
+
+.contenedor {
+   color: rgb(131, 37, 219);
+   font: bold 120% sans;
+}
+
+.animales {
+   color: red;
+}
